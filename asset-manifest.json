@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/NewPortfolio/static/css/main.1f96fd1d.css",
+    "main.js": "/NewPortfolio/static/js/main.6142bf2e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/NewPortfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/robotic-icon.gif": "/NewPortfolio/static/media/robotic-icon.05ed993cea84e9c7b6dc.gif",
+    "static/media/bg-1.jpg": "/NewPortfolio/static/media/bg-1.e7a118c397efc44bbf9e.jpg",
+    "static/media/Poppins-Thin.ttf": "/NewPortfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/NewPortfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/NewPortfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/NewPortfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/NewPortfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/NewPortfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/NewPortfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/profilephoto.jpeg": "/NewPortfolio/static/media/profilephoto.f18bf041a51772bd1233.jpeg",
+    "static/media/mike.png": "/NewPortfolio/static/media/mike.8af8bcf1a1892426bb8d.png",
+    "static/media/mailz.jpeg": "/NewPortfolio/static/media/mailz.d13d5e32cbc73884b526.jpeg",
+    "static/media/man.png": "/NewPortfolio/static/media/man.bd25aa3831d20f3de330.png",
+    "index.html": "/NewPortfolio/index.html",
+    "static/media/programming-skills.svg": "/NewPortfolio/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/NewPortfolio/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/NewPortfolio/static/media/interests.809890a3e4fb0938f61b.svg",
+    "static/media/education.svg": "/NewPortfolio/static/media/education.10cfa28a40119ebd70cf.svg",
+    "static/media/work-history.svg": "/NewPortfolio/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.1f96fd1d.css.map": "/NewPortfolio/static/css/main.1f96fd1d.css.map",
+    "main.6142bf2e.js.map": "/NewPortfolio/static/js/main.6142bf2e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/NewPortfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f96fd1d.css",
+    "static/js/main.6142bf2e.js"
+  ]
+}
